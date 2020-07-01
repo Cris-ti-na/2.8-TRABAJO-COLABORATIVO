@@ -2,6 +2,7 @@
     background: #fc0;
     height: 100px;
     position: relative;
+    margin: auto;
     width: 100px;
   }
   .face {
